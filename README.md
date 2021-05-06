@@ -1,1 +1,4 @@
-Tarefa de aula php com Laravel
+# Tarefa final Faetec aula de php mvc com Laravel.
+- bootstrap
+- css
+
